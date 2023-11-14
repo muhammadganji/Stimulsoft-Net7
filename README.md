@@ -3,3 +3,5 @@
 
 snip code of stimful-soft 2023 in asp.net 7
 November 2023
+
+[https://github.com/stimulsoft/Samples-Reports.WEB-for-ASP.NET-Core-MVC](نمونه پروزه برای انواع گزارش گیری)
